@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 * **Graduate Student Researcher**, Digital Circuits and Systems Lab, NTU, Taipei, Taiwan, 07/2019 - now
-  * __Advisor: Prof. Chia-Hsiang Yang__
+  * <u>Advisor: Prof. Chia-Hsiang Yang</u>
   * Designed an energy-efficient processor for sparse NN training (in collaboration with Qualcomm)
     * Carried out complete ASIC design flow, including algorithm design, chip tape-out, and chip measurement
     * The proposed design outperforms the state-of-the-art work by 3.7$\times$ improvement in energy-efficiency
