@@ -20,13 +20,13 @@ author_profile: true
   * Developed a memory access optimization methodology for CNN computation
   * Designed peripheral controllers (including efuse, QSPI flash) for SoC integration of the new version product
 * **Undergraduate Student Researcher**, Digital Circuits and Systems Lab, NTU, Taipei, Taiwan, 08/2018 - 06/2019
-  * __Advisor: Prof. Chia-Hsiang Yang__
+  * <u>Advisor: Prof. Chia-Hsiang Yang</u>
   * Conducted an in-house toolchain for mapping deep learning models to a designed processor
   * Designed a dedicated processor (RTL to P&R), a model mapping algorithm, and an user interface
 * **Intern**, Genesys Logic Incorporation, Taipei, Taiwan, 02/2019 - 06/2019
   * Developed a compact NN model for multiple object detection on an in-house dataset
 * **Research Assistant**, Institute of Information Science, Academia Sinica, Taipei, Taiwan, 03/2018 - 06/2019
-  * __Advisor: Dr. Li Su__
+  * <u>Advisor: Dr. Li Su</u>
   * Developed a neural network for automatic music segmentation and transcription
   * The proposed model outperforms all previous methods in transcription by 7.4% in terms of the F1-measure
 
