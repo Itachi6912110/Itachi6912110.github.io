@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zih-Sing (Louie) Fu"
-  avatar           : "zihsingfu.png" #"profile.png"
+  avatar           : "zihsingfu.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Taipei, Taiwan"
   employer         :
