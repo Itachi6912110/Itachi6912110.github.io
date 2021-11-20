@@ -35,15 +35,8 @@ HONORS & AWARDS
 
 Publications
 ======
-* Conference papers
-  * P.-S. Chen, Y.-L. Chen, Y.-C. Lee, **Z.-S. Fu**, and C.-H. Yang, "A 28.8mW Accelerator IC for Dark Channel Prior Based Blind Image Deblurring," IEEE Asian Solid-State Circuits Conference (A-SSCC), Nov. 2021.
-  * **Z.-S. Fu** and L. Su, "Hierarchical Classification Networks for Singing Voice Segmentation and Transcription," International Society for Music Information Retrieval Conference (ISMIR), Nov. 2019.
-* Forum
-  * **Z.-S. Fu**, Y.-C. Lee, and C.-H. Yang, 2022 ISSCC Student Research Preview, to be presented
-* Manuscript to be submitted
-  * **Z.-S. Fu**, Y.-C. Lee, and C.-H. Yang, "A 40nm 646.6TOPS/W Sparsity-Driven Deep-Neural-Network Processor for On-Device Training," 2022 Symposium on VLSI Circuits, to be submitted
-* Patent
-  * **Z.-S. Fu**, W.-C. Huang, C.-H. Yang, Z. Zhang, and T. Wesley, PCT/US2021/047220, pending
+* P.-S. Chen, Y.-L. Chen, Y.-C. Lee, **Z.-S. Fu**, and C.-H. Yang, "A 28.8mW Accelerator IC for Dark Channel Prior Based Blind Image Deblurring," IEEE Asian Solid-State Circuits Conference (A-SSCC), Nov. 2021.
+* **Z.-S. Fu** and L. Su, "Hierarchical Classification Networks for Singing Voice Segmentation and Transcription," International Society for Music Information Retrieval Conference (ISMIR), Nov. 2019.
 
 Research/Work Experience
 ======
