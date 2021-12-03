@@ -11,12 +11,10 @@ redirect_from:
 
 [PDF version](http://Itachi6912110.github.io/files/CV_Zih_Sing_Fu_1203.pdf)
 
-Research Interest
-======
+## Research Interest
 VLSI design and computer architecture for AI/ML applications or digital signal processing
 
-Education
-======
+## Education
 * M.S. in Electronics Engineering, National Taiwan University (NTU), 09/2019 - now
   * Thesis: An Energy-Efficient Deep-Neural-Network Processor Supporting Sparsity Scaling for On-Device Training
   * Advisor: Prof. Chia-Hsiang Yang
@@ -24,8 +22,7 @@ Education
 * B.S. in Electrical Engineering, National Taiwan University (NTU), 09/2015 - 06/2019
   * Cumulative GPA: 4.26/4.30 (Rank: **2**/190)
 
-HONORS & AWARDS
-======
+## HONORS & AWARDS
 * Bronze Medal Award, Macronix Golden Silicon Award (200+ teams), 2021
 * Novatek Scholarship (Given to about 20 EECS students in the nation), 2020
 * Garmin Scholarship (Given to about 10 EECS students in the nation), 2019
@@ -35,13 +32,11 @@ HONORS & AWARDS
 * E.SUN Bank Enterprise Award, MAKENTU Hackathon (40+ teams), 2018
 * 1st Place, NTU System App Creativity Contest, NTU, 2017
 
-Publications
-======
+## Publications
 * P.-S. Chen, Y.-L. Chen, Y.-C. Lee, **Z.-S. Fu**, and C.-H. Yang, "A 28.8mW Accelerator IC for Dark Channel Prior Based Blind Image Deblurring," IEEE Asian Solid-State Circuits Conference (A-SSCC), Nov. 2021.
 * **Z.-S. Fu** and L. Su, "Hierarchical Classification Networks for Singing Voice Segmentation and Transcription," International Society for Music Information Retrieval Conference (ISMIR), Nov. 2019.
 
-Research/Work Experience
-======
+## Research/Work Experience
 * **Graduate Student Researcher**, Digital Circuits and Systems Lab, NTU, Taipei, Taiwan, 07/2019 - now
   * __Advisor: Prof. Chia-Hsiang Yang__
   * Designed an energy-efficient processor for sparse NN training (in collaboration with Qualcomm)
@@ -67,8 +62,7 @@ Research/Work Experience
   * Developed a neural network for automatic music segmentation and transcription
   * The proposed model outperforms all previous methods in transcription by 7.4% in terms of the F1-measure
 
-Teaching Experience
-======
+## Teaching Experience
 * Teaching Assistant, Graduate Institute of Electronics Engineering, NTU, 09/2020 - 02/2021
   * Graduate-level Computer-aided VLSI System Design
   * Designed labs, homework, exams, and tutorials about VLSI design flow for 100+ students
@@ -77,8 +71,7 @@ Teaching Experience
   * Undergraduate-level Digital Circuit Design Lab
   * Assisted 30+ students with their coursework about digital circuit design on FPGA platforms
 
-Skills
-======
+## Skills
 * Programming Languages: Verilog, C/C++, Python, Matlab, Latex
 * ML Frameworks: PyTorch, Tensorflow
 * Cell-based ASIC Design: NC-Verilog, Verdi/nWave, Design Compiler, Innovus, Calibre DRC/LVS
