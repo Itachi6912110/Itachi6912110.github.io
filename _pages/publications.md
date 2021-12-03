@@ -18,6 +18,9 @@ P.-S. Chen, Y.-L. Chen, Y.-C. Lee, **Z.-S. Fu**, and C.-H. Yang, "A 28.8mW Accel
 # Workshop
 **Z.-S. Fu** and C.-H. Yang, 2nd Qualcomm National Taiwan University Workshop [[Poster](http://Itachi6912110.github.io/files/QC-workshop-poster.pdf)] <br/>
 
+# Patent
+**Z.-S. Fu**, W.-C. Huang, C.-H. Yang, Z. Zhang, and T. Wesley, PCT/US2021/047220, pending
+
 <!--
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
