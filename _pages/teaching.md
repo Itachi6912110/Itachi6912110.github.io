@@ -26,8 +26,9 @@ Other Activities
 
 ## NTUEE Programming Training Course
 * Duration: 08/2019
-* Designed labs and lectures for basic C++ programming for 30+ students
-* <img src='/images/Teach-cpp.jpg' width='600' > <br/>
+* Designed labs and lectures for basic C++ programming for 30+ students <br/>
+<img src='/images/Teach-cpp.jpg' width='600' > <br/>
+
 ## Arabia/Taiwan Intelligence Technology Camp
 * Duration: 01/2019
 * Developed courses in collaboration with NTUEE professors, including Arduino programming and searching algorithms
