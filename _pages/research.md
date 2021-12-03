@@ -26,8 +26,7 @@ author_profile: true
   
 * Automatic music segmentation and transcription
   * Vocal singing song segmentation and transcription using deep learning
-  * Published in 2019 ISMIR [[Paper](http://Itachi6912110.github.io/files/ISMIR-2019.pdf)]
-  * [Demo video](https://youtu.be/qNIPpNQ2HQU) <br/>
+  * Published in 2019 ISMIR [[Paper](http://Itachi6912110.github.io/files/ISMIR-2019.pdf)][[Demo video](https://youtu.be/qNIPpNQ2HQU)] <br/>
   <img src='/images/Project-transcription.png' width='600' > <br/>
   
 <!--
