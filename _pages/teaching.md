@@ -17,7 +17,6 @@ author_profile: true
 
 Other Activities
 ===
-
 ## NTUEE Micro-Course for high school students
 * Duration: 09/2019 - 02/2020
 * Taught 30+ students about developing with a customized embedded system
