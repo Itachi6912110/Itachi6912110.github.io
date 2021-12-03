@@ -5,20 +5,20 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Conference
+## Conference
 P.-S. Chen, Y.-L. Chen, Y.-C. Lee, **Z.-S. Fu**, and C.-H. Yang, "A 28.8mW Accelerator IC for Dark Channel Prior Based Blind Image Deblurring," IEEE Asian Solid-State Circuits Conference (A-SSCC), Nov. 2021. [[Paper](http://Itachi6912110.github.io/files/ASSCC-2021.pdf)] <br/>
 <img src='/images/ASSCC-2021.png' width='600' > <br/>
 
 **Z.-S. Fu** and L. Su, "Hierarchical Classification Networks for Singing Voice Segmentation and Transcription," International Society for Music Information Retrieval Conference (ISMIR), Nov. 2019. [[Paper](http://Itachi6912110.github.io/files/ISMIR-2019.pdf)] <br/>
 <img src='/images/ISSCC-2019.png' width='600' > <br/>
 
-# Forum
+## Forum
 **Z.-S. Fu**, Y.-C. Lee, and C.-H. Yang, 2022 ISSCC Student Research Preview, to be presented;
 
-# Workshop
+## Workshop
 **Z.-S. Fu** and C.-H. Yang, 2nd Qualcomm National Taiwan University Workshop [[Poster](http://Itachi6912110.github.io/files/QC-workshop-poster.pdf)] <br/>
 
-# Patent
+## Patent
 **Z.-S. Fu**, W.-C. Huang, C.-H. Yang, Z. Zhang, and T. Wesley, PCT/US2021/047220, pending
 
 <!--
