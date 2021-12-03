@@ -19,19 +19,19 @@ author_profile: true
 # Other Activities
 ## NTUEE Micro-Course for high school students
 * Duration: 09/2019 - 02/2020
-* Taught 30+ students about developing with a customized embedded system
+* Assisted 30+ students about developing with a customized embedded system
 * Assisted in their final project development <br/>
 <img src='/images/Teach-micro.jpg' width='600' > <br/>
 
 ## NTUEE Programming Training Course
 * Duration: 08/2019
-* Designed labs and lectures for basic C++ programming for 30+ students <br/>
+* Gave lectures and led labs about basic C++ programming for 30+ students <br/>
 <img src='/images/Teach-cpp.jpg' width='600' > <br/>
 
 ## Arabia/Taiwan Intelligence Technology Camp
 * Duration: 01/2019
 * Developed courses in collaboration with NTUEE professors
-* Assisted in teaching Arduino programming and searching algorithms
+* Assisted in teaching Arduino programming and searching algorithms for 30+ Arabian students
 * Assisted in their final project development (agent for playing Gomoku) <br/>
 <img src='/images/Teach-arabia.jpg' width='600' > <br/>
 
