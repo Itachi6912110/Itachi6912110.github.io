@@ -1,10 +1,11 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Teaching Experiences"
 permalink: /teaching/
 author_profile: true
 ---
 
+# Electrical Engineering Courses
 ## Teaching Assistant - Computer-aided VLSI System Design
 * Graduate-level course, National Taiwan University
 * Duration: 09/2019 - 02/2020, 09/2020 - 02/2021
@@ -15,8 +16,7 @@ author_profile: true
 * Duration: 09/2018 - 02/2019
 * Assisted 30+ students with their coursework about digital circuit design on FPGA platforms
 
-Other Activities
-===
+# Other Activities
 ## NTUEE Micro-Course for high school students
 * Duration: 09/2019 - 02/2020
 * Taught 30+ students about developing with a customized embedded system
