@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[PDF version](http://Itachi6912110.github.io/files/CV_Zih_Sing_Fu_1203.pdf)
+
 Research Interest
 ======
 VLSI design and computer architecture for AI/ML applications or digital signal processing
