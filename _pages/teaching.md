@@ -31,7 +31,8 @@ Other Activities
 
 ## Arabia/Taiwan Intelligence Technology Camp
 * Duration: 01/2019
-* Developed courses in collaboration with NTUEE professors, including Arduino programming and searching algorithms
+* Developed courses in collaboration with NTUEE professors
+* Assisted in teaching Arduino programming and searching algorithms
 * Assisted in their final project development (agent for playing Gomoku) <br/>
 <img src='/images/Teach-arabia.jpg' width='600' > <br/>
 
