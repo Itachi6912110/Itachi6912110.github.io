@@ -13,11 +13,11 @@ author_profile: true
   
 ## Automatic music segmentation and transcription
 * Vocal singing song segmentation and transcription using deep learning
-* Published in 2019 ISMIR [[Paper](http://Itachi6912110.github.io/files/ISMIR-2019.pdf)][[Demo video](https://youtu.be/qNIPpNQ2HQU)] <br/>
+* Published in 2019 ISMIR [[Paper](http://Itachi6912110.github.io/files/ISMIR-2019.pdf)][[Demo](https://youtu.be/qNIPpNQ2HQU)] <br/>
 <img src='/images/Project-transcription.png' width='600' > <br/>
 
 ## Real-time image style transfer system
-* Final project of *Electrical Engineering Lab (Digital Circuit)* [[Video](https://youtu.be/JakKLa0qynw)] <br/>
+* Final project of *Electrical Engineering Lab (Digital Circuit)* [[Demo](https://youtu.be/JakKLa0qynw)] <br/>
 <img src='/images/Project-EElab.jpg' width='600' > <br/>
 
 ## Pipelined MIPS design
