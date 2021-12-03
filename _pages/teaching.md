@@ -25,7 +25,7 @@ author_profile: true
 
 ## NTUEE Programming Training Course
 * Duration: 08/2019
-* Gave lectures and led labs about basic C++ programming for 30+ students <br/>
+* Gave lectures and led labs about basic C++ programming for 20+ students <br/>
 <img src='/images/Teach-cpp.jpg' width='600' > <br/>
 
 ## Arabia/Taiwan Intelligence Technology Camp
