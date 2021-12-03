@@ -19,9 +19,9 @@ Other Activities
 ===
 
 ## NTUEE micro-course for high school students
-* Duration:
+* Duration: <br/>
 ## Arabia/Taiwan Intelligence Technology Camp
-* Duration:
+* Duration: <br/>
 
 <!--
 {% include base_path %}
