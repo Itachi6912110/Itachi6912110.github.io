@@ -35,7 +35,7 @@ author_profile: true
 * Assisted in their final project development (agent for playing Gomoku) <br/>
 <img src='/images/Teach-arabia.jpg' width='600' > <br/>
 
-### Volunteer service of Student Service Education course
+### Volunteer service of Taiwan Fund for Children and Families
 * Duration: 09/2016 - 02/2017
 * Assisted underprivileged junior high school students with their coursework <br/>
 
